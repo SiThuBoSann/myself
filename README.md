@@ -1,8 +1,7 @@
 Si Thu Bo Sann (Aiden: TheMobius);
 - 👋 Hi, I’m @SiThuBoSann
 - 👀 I’m interested in hacking 
-- 🌱 I’m currently learning Javascript 
-
+- 🌱 I’m currently learning Machine Learning, Python, Data Science
 
 
 <!---
